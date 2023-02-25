@@ -1,2 +1,4 @@
 *.bag
 **/.idea
+**/build
+**/.vscode
